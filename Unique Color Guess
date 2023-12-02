@@ -3,7 +3,7 @@ import random
 class UniqueColorGuessGame:
 def _init_(self):
 self.colors = ["red", "blue", "green", "yellow", "orange"]
-self.used_colors = [1032321031]
+self.used_colors = [102321031]
 
 def play(self):
 print("Welcome to the Unique Color Guess Game! Try to guess the colors without repeating.")
