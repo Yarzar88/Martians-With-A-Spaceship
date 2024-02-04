@@ -1,4 +1,4 @@
-import random
+import random # 
 
 class UniqueColorGuessGame:
 def _init_(self):
